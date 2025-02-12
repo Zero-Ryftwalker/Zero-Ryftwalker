@@ -1,4 +1,14 @@
 ## Hi there 👋
+I'm Zero, a computer enthusiast who is interested in learning programming!
+I am a 20 year old male who loves video games, music, art, military equipment, photography, and computer science.
+
+For the most part I'm self-taught, using online resources that are free, as well as running Linux systems on my computer. Currently, I am dual booting Linux Mint and Void Linux, Void is my main system, while Mint is a host system for my upcoming project.
+
+My upcoming project is going to be a Linux From Scratch setup on my secondary SSD, I am going to log it in a repository so that you all can see my progress. The system I build is probably never going to leave my PC, but honestly that isn't something I'm worried about. It is mainly just to familiarize myself with the Linux kernel. I wouldn't mind feedback though once I get it up and running. 
+
+Anyways, I will stop yapping as I don't want to keep you all here forever. It is nice to see everyone and I can't wait to share my progress with you all.
+
+Cheers - Zero Ryftwalker
 
 <!--
 **Zero-Ryftwalker/Zero-Ryftwalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
