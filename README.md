@@ -2,7 +2,7 @@
 I'm Zero, a computer enthusiast who is interested in learning programming!
 I am a 20 year old male who loves video games, music, art, military equipment, photography, and computer science.
 
-For the most part I'm self-taught, using online resources that are free, as well as running Linux systems on my computer. Currently, I am dual booting Linux Mint and Void Linux, Void is my main system, while Mint is a host system for my upcoming project.
+I have an interest in programming as well. Currently I am learning C as it seems to be a good foundation to build on. I use Linux, Void Linux to be specific as I like how minimal and fast it is compared to Windows. Not that I don't like Windows, I just prefer Linux, it works better for what I need.
 
 Anyways, I will stop yapping as I don't want to keep you all here forever. It is nice to see everyone and I can't wait to share my progress with you all.
 
